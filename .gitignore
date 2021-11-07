@@ -6,10 +6,10 @@ env
 *.log
 *.pot
 *.pyc
-**/__pycache__/**
+__pycache__
 db.sqlite3
 media
-/server/snippets/__pycache__/**
+
 # Backup files # 
 *.bak 
 

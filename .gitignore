@@ -9,7 +9,7 @@ env
 **/__pycache__/**
 db.sqlite3
 media
-server/snippets/__pycache__
+/server/snippets/__pycache__/**
 # Backup files # 
 *.bak 
 

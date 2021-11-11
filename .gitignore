@@ -2,6 +2,13 @@ venv
 env
 .django-rest-venv
 
+
+db.sqlite3
+node_modules
+static/index-bundle.js
+
+
+
 # Django #
 *.log
 *.pot

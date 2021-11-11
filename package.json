@@ -1,0 +1,36 @@
+{
+  "name": "django-rest",
+  "version": "1.0.0",
+  "description": "django-react template",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConaGo/django-rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConaGo/django-rest/issues"
+  },
+  "homepage": "https://github.com/ConaGo/django-rest#readme",
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "@babel/preset-react": "^7.16.0",
+    "babel-loader": "^8.2.3",
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.4.4",
+    "webpack": "^5.63.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
